@@ -23,8 +23,14 @@ p {font-weight: 200; font-size: 20px;}
 
 .container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: hidden;}
 article {padding: 60px;}
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
 article::before {
-  content: "test";
+  content: url('.../balloons.png');
   position: relative;
   top: 0;
   left: -30px;
