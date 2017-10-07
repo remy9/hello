@@ -32,7 +32,7 @@ article::before {
   font-size: 24px;
 }
 article::after {
-  content: '\2A55\2A55\2A55\2A55';
+  content: '\2601\2A55\2A55\2A55';
   position: relative;
   top: 40px;
   left: 300px;
