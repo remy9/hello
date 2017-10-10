@@ -17,7 +17,7 @@ p {font-weight: 200; font-size: 20px;}
 
 article {padding: 60px;}
 article::before {
-  content: url("../ballons.png");
+  content: url("/ballons.png");
   position: relative;
   top: 0;
   left: -30px;
